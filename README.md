@@ -2,13 +2,14 @@
 
 📌 Présentation du projet
 
-Ce projet consiste à analyser les données de ventes de boutiques situées à Lomé, au Togo, à l'aide de Microsoft Excel.
+Ce projet consiste à analyser les données de ventes de 3 boutiques situées à Lomé, au Togo, à l'aide de Microsoft Excel.
 
 Il a été réalisé dans le cadre d'un mini-projet pratique visant à appliquer des compétences en analyse de données et en visualisation pour faciliter la compréhension des performances commerciales.
 
 🎯 Objectifs
 
 - Explorer et analyser les données de ventes.
+- Nettoyer les données brutes.
 - Organiser et exploiter les données avec Excel.
 - Concevoir un tableau de bord interactif pour visualiser les indicateurs commerciaux.
 - Faciliter l'interprétation des résultats et la prise de décision.
@@ -29,4 +30,4 @@ Ce tableau de bord permet de synthétiser les performances commerciales et d'exp
 
 👨‍💻 Auteur
 
-Projet réalisé dans le cadre de mon apprentissage de l'analyse de données, avec une orientation vers la Business Analytics.
+Projet réalisé dans le cadre de mon apprentissage de l'analyse de données, avec une orientation vers la Business Analytics et la financial analytics.
