@@ -29,4 +29,4 @@ Ce tableau de bord permet de synthétiser les performances commerciales et d'exp
 
 👨‍💻 Auteur
 
-Projet réalisé dans le cadre de mon apprentissage de l'analyse de données, avec une orientation vers la Business Analytics et la Financial Analytics.
+Projet réalisé dans le cadre de mon apprentissage de l'analyse de données, avec une orientation vers la Business Analytics.
